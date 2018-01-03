@@ -10,6 +10,10 @@ Solutions to Software Engineering (ECSE205L - Fall 2017 - Bennett University) As
 # So what do I do with this?
  Read it, use it as a reference to write your own answers!
 
+# Where is the rest?
+
+ It takes a while to convert all the text to GFM. I'm gradually doing it, but it might take some time. If you can't wait, contact me, I'll send the files.
+
 # How do I credit you?
  Just add something like this to your References in the document:
 
@@ -24,3 +28,5 @@ Solutions to Software Engineering (ECSE205L - Fall 2017 - Bennett University) As
  Did I make a mistake? Do not agree with my point of view? Please go ahead and open an issue and I'll be happy to discuss.
 
  Found grammatical/formatting or any other errors? Go ahead and open an issue, or better, fix it and open a pull request!
+
+ If you want to help convert the remaining files to Markdown, please contact me.
