@@ -22,7 +22,7 @@ Solutions to Software Engineering (ECSE205L - Fall 2017 - Bennett University) As
  Feel free to format the reference line as required.
 
 # License?
- This repository and its contents are licensed under the **Creative Commons Attribution Share Alike 4.0** License. This means you can use the data however you want, but I will not hold me responsible for anything that arises out of the use of this data.
+ This repository and its contents are licensed under the **Creative Commons Attribution Share Alike 4.0** License. This means you can use the data however you want, but will not hold me responsible for anything that arises out of the use of this data.
 
 # Contribute
  Did I make a mistake? Do not agree with my point of view? Please go ahead and open an issue and I'll be happy to discuss.
